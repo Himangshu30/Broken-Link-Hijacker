@@ -79,8 +79,4 @@ url           | url           | A URL to scan
   `-o F or -o False ` | `-o T or -o True`.
 
    
-### Note
-- More details here https://edoverflow.com/2017/broken-link-hijacking/
 
-Use This Tool Wisely.\
-Happy Hacking :sparkles: :sparkles:
